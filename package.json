@@ -2,7 +2,7 @@
   "name": "og-image-click",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "https://ogimage.click",
+  "homepage": "https://og.uiineed.com",
   "author": "Jude Wei",
   "scripts": {
     "dev": "next dev",

@@ -1,12 +1,12 @@
-# ogimage.click
+# og.uiineed.com
 
 ## Development
 
 Set the required environment variables in your `.env.local`:
 
 ```
-NEXT_PUBLIC_BASE_URL=https://ogimage.click
-NEXT_PUBLIC_API_URL=https://ogimage.click/api
+NEXT_PUBLIC_BASE_URL=https://og.uiineed.com
+NEXT_PUBLIC_API_URL=https://og.uiineed.com/api
 
 NEXT_PUBLIC_GOOGLE_ID=
 NEXT_PUBLIC_GOOGLE_ADSENSE_ID=

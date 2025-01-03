@@ -35,7 +35,7 @@ export const imageRightTemplateDefault: ImageRightTemplate = {
   name: "og:image-right",
   params: {
     tag: {
-      text: "ogimage.click",
+      text: "og.uiineed.com",
       fontFamily: "inter",
       fontWeight: 400,
       fontSize: 20,
