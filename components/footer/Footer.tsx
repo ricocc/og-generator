@@ -56,9 +56,9 @@ export default function Footer() {
                 <FaBluesky className="h-5 w-5 text-black dark:text-white" />
               </Link>
               <Link
-                href="https://github.com/weijunext/ogimage-click"
+                href="https://github.com/ricocc/og-generator"
                 prefetch={false}
-                title="ogimage-click"
+                title="og-generator"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 aria-label="GitHub"

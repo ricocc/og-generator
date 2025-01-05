@@ -61,10 +61,10 @@ export default function HowToAddSection() {
             <Link
               href={`${process.env.NEXT_PUBLIC_BASE_URL}/guides/og-image-design-principles`}
               prefetch={false}
-              title="OG Image Design 2025: Create Social Previews That Convert"
+              title="2025 OG Image Design: Crafting Engaging Social Preview"
               className="inline-block w-full whitespace-normal break-words text-sm underline"
             >
-              OG Image Design 2025: Create Social Previews That Convert
+             2025 OG Image Design: Crafting Engaging Social Preview
             </Link>
           </li>
         </ul>

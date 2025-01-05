@@ -1,9 +1,9 @@
 {
-  "name": "og-image-click",
+  "name": "og-generator",
   "version": "0.1.0",
   "license": "MIT",
   "homepage": "https://og.uiineed.com",
-  "author": "Jude Wei",
+  "author": "Rico Uiineed",
   "scripts": {
     "dev": "next dev",
     "postbuild": "next-sitemap",
